@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MainApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MainApp.class, "welcome to spring with gradle");
+		SpringApplication.run(MainApp.class, args);
 		printOutput();
 	}
 	

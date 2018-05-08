@@ -1,7 +1,8 @@
-build.scans.enabled=false
+#Mon May 07 23:02:09 EDT 2018
 connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(4.6))
-connection.project.dir=
+override.workspace.settings=true
 eclipse.preferences.version=1
 gradle.user.home=E\:/Tools/gradle-4.6
+connection.project.dir=
 offline.mode=false
-override.workspace.settings=true
+build.scans.enabled=false
